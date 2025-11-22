@@ -1,0 +1,5 @@
+{
+  "name": "GPU 架构可视化演示",
+  "description": "一个交互式 SVG 演示，展示 GPU 如何处理数据，包含从 CPU 指令到屏幕输出的简化渲染流水线。",
+  "requestFramePermissions": []
+}
